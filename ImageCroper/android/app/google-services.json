@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438743135313",
+    "project_id": "intense-wavelet-291919",
+    "storage_bucket": "intense-wavelet-291919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438743135313:android:d5157614d1aa4dbb99f470",
+        "android_client_info": {
+          "package_name": "com.example.ImageCroper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438743135313-1otfo2vang99o3g3ef12hjf92hmpjlib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwROpWZmfrd5onQglTnD2f7F2JCkr1M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438743135313-1otfo2vang99o3g3ef12hjf92hmpjlib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
