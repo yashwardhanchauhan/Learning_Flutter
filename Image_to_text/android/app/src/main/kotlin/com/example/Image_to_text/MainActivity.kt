@@ -1,0 +1,6 @@
+package com.example.Image_to_text
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
